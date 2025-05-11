@@ -9,7 +9,7 @@ const projects = [
     year: "Javascript, React, HTML, TailwindCSS",
     desp: "Designed and developed a responsive portfolio website using React, JavaScript, HTML, and TailwindCSS to showcase projects, skills, and experience with a clean, modern UI and smooth user interactions.",
     align: "right",
-    image: "../../public/images/website-img-1.jpg",
+    image: "../../../public/images/website-img-1.jpg",
     link: "https://github.com/saivishwanatha/Portfolio_SV",
   },
   {
@@ -17,7 +17,7 @@ const projects = [
     year: "Node.js, React.js, MongoDB, OpenAI API, Javascript",
     desp : " Developed a React-Node-MongoDB app using OpenAI for personalized recipes and grocery integration, increasing engagement by 30% and reducing meal planning time by 50%.",
     align: "left",
-    image: "../../public/images/website-img-2.webp",
+    image: "../../../public/images/website-img-2.webp",
     link: "#",
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     year: "Dlib, OpenCV, NumPy, Imutils",
     desp: "Built a hands-free mouse control system using Dlib and OpenCV, enabling eye gesture-based clicks with 95% accuracy, improving usability by 60% and user independence by 50%.",
     align: "right",
-    image: "../../public/images/website-img-3.jpg",
+    image: "../../../public/images/website-img-3.jpg",
     link: "https://github.com/saivishwanatha/Mouse-Cursor-Control-Using-Facial-Movements",
   },
 ];
