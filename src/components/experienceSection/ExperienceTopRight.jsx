@@ -6,9 +6,12 @@ const ExperienceTopRight = () => {
         <span className="font-bold text-white">
           React and modern JavaScript
         </span>
-        , applying best practices to build responsive, accessible, and performance-optimized front-end solutions <br />
-        My experience ranges from developing CRM and finance systems to building custom dashboards, 
-        all focused on delivering intuitive user experiences and scalable applications.
+        , with a focus on building responsive, accessible, and performance-optimized front-end solutions.
+         Experienced in developing CRM and finance systems, as well as designing custom dashboards—consistently
+        delivering intuitive user experiences and scalable, maintainable applications aligned with industry 
+        best practices.
+
+
       </p>
     </div>
   );

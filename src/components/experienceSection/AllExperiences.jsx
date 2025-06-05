@@ -7,7 +7,7 @@ const experiences = [
   {
     job: "Student Mentor",
     company: "Smart Interviews, Hyderabad ",
-    date: "Apr'2021 – Aug'2021 ",
+    date: "Aug' 2019 – Jun'2021 ",
     responsibilities: [
       "Mentoring students in coding and debugging.",
       "Guiding feature prototyping for web and mobile apps.",
@@ -17,7 +17,7 @@ const experiences = [
   {
     job: "Software Engineer",
     company: "TCS, Hyderabad",
-    date: "Aug'22 - Jun'23",
+    date: "Jul'21 - Jun'23",
     responsibilities: [
       "Building responsive, user-friendly interfaces with React.",
       "Leading front-end development for CRM and finance systems.",
@@ -27,7 +27,7 @@ const experiences = [
   {
     job: "Software Engineer",
     company: "Tilt, Colorado, USA",
-    date: "Jan'2025 - May'2025",
+    date: "Apr'2024 - May'2025",
     responsibilities: [
       "Leading usability audits and content improvements for TILT website.",
       "Designing Figma prototypes and enhancing accessibility to 90%+ WCAG 2.1 compliance.",

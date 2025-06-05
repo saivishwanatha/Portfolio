@@ -3,7 +3,7 @@ import { IoIosCloudDownload } from "react-icons/io";
 const NavbarBtn = () => {
   const onButtonClick = () => {
     const link = document.createElement("a");
-    link.href = "/resume4.pdf"; // Public folder path
+    link.href = "/resume_4.pdf"; // Public folder path
     link.download = "SaiCharan_Resume.pdf";
     document.body.appendChild(link);
     link.click();
